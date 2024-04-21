@@ -18,7 +18,7 @@ Welcome to the Movie App! This project allows users to browse popular movies, se
 ## Setup
 
 1. Clone the repository:
-git clone https://github.com/your-username/movie-app.git
+git clone https://github.com/nitesh030923/movie-app.git
 
 
 2. Open the project directory:
